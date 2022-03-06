@@ -1,5 +1,5 @@
 # Tidbyt Flags
-[Tidbyt](https://tidbyt.com/) Flags applet
+<a href="https://tidbyt.com/" target="_blank">Tidbyt</a> country flags applet 🇺🇸
  
 ![Alt](./flags.png "render my flags")
 
