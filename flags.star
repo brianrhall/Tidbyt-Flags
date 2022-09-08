@@ -39,7 +39,7 @@ def main():
                     expanded = True,
                     children = [
 
-                        # row to hold text evenly distrubuted accross the row
+                        # row to hold text evenly distributed across the row
                         render.Row(
                             main_align = "space_around",
                             cross_align = "center",
